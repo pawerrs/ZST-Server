@@ -1,0 +1,8 @@
+E:\studia\ZST\Serwer\Serwer\bin\Release\Serwer.exe.config
+E:\studia\ZST\Serwer\Serwer\bin\Release\Serwer.exe
+E:\studia\ZST\Serwer\Serwer\bin\Release\Serwer.pdb
+E:\studia\ZST\Serwer\Serwer\obj\Release\Serwer.Serwer.resources
+E:\studia\ZST\Serwer\Serwer\obj\Release\Serwer.Properties.Resources.resources
+E:\studia\ZST\Serwer\Serwer\obj\Release\Serwer.csproj.GenerateResource.Cache
+E:\studia\ZST\Serwer\Serwer\obj\Release\Serwer.exe
+E:\studia\ZST\Serwer\Serwer\obj\Release\Serwer.pdb

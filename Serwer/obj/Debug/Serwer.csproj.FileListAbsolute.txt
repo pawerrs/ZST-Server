@@ -1,0 +1,30 @@
+E:\studia\ZST\Serwer\Serwer\bin\Debug\Serwer.exe.config
+E:\studia\ZST\Serwer\Serwer\bin\Debug\Serwer.exe
+E:\studia\ZST\Serwer\Serwer\bin\Debug\Serwer.pdb
+E:\studia\ZST\Serwer\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
+E:\studia\ZST\Serwer\Serwer\obj\Debug\Serwer.Serwer.resources
+E:\studia\ZST\Serwer\Serwer\obj\Debug\Serwer.Properties.Resources.resources
+E:\studia\ZST\Serwer\Serwer\obj\Debug\Serwer.csproj.GenerateResource.Cache
+E:\studia\ZST\Serwer\Serwer\obj\Debug\Serwer.exe
+E:\studia\ZST\Serwer\Serwer\obj\Debug\Serwer.pdb
+E:\SEMESTR 5\ZST\Projekt_1\Serwer\Serwer\bin\Debug\Serwer.exe.config
+E:\SEMESTR 5\ZST\Projekt_1\Serwer\Serwer\obj\Debug\Serwer.exe
+E:\SEMESTR 5\ZST\Projekt_1\Serwer\Serwer\obj\Debug\Serwer.pdb
+E:\SEMESTR 5\ZST\Serwer\Serwer\obj\Debug\Serwer.exe
+E:\SEMESTR 5\ZST\Serwer\Serwer\obj\Debug\Serwer.pdb
+E:\SEMESTR 5\ZST\Serwer\Serwer\bin\Debug\Serwer.exe
+E:\SEMESTR 5\ZST\Serwer\Serwer\bin\Debug\Serwer.pdb
+E:\SEMESTR 5\ZST\Serwer\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
+E:\SEMESTR 5\ZST\Serwer\Serwer\obj\Debug\Serwer.Serwer.resources
+E:\SEMESTR 5\ZST\Serwer\Serwer\obj\Debug\Serwer.Properties.Resources.resources
+E:\SEMESTR 5\ZST\Serwer\Serwer\obj\Debug\Serwer.csproj.GenerateResource.Cache
+E:\SEMESTR 5\ZST\Serwer\Serwer\bin\Debug\Serwer.exe.config
+E:\SEMESTR 5\ZST\ZST - Projekt\ZST - Projekt 1\Klient_serwer_bazadanych\Serwer\Serwer\bin\Debug\Serwer.exe.config
+E:\SEMESTR 5\ZST\ZST - Projekt\ZST - Projekt 1\Klient_serwer_bazadanych\Serwer\Serwer\obj\Debug\Serwer.exe
+E:\SEMESTR 5\ZST\ZST - Projekt\ZST - Projekt 1\Klient_serwer_bazadanych\Serwer\Serwer\obj\Debug\Serwer.pdb
+E:\SEMESTR 5\ZST\ZST - Projekt\ZST - Projekt 1\Klient_serwer_bazadanych\Serwer\Serwer\bin\Debug\Serwer.exe
+E:\SEMESTR 5\ZST\ZST - Projekt\ZST - Projekt 1\Klient_serwer_bazadanych\Serwer\Serwer\bin\Debug\Serwer.pdb
+E:\SEMESTR 5\ZST\ZST - Projekt\ZST - Projekt 1\Klient_serwer_bazadanych\Serwer\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
+E:\SEMESTR 5\ZST\ZST - Projekt\ZST - Projekt 1\Klient_serwer_bazadanych\Serwer\Serwer\obj\Debug\Serwer.Serwer.resources
+E:\SEMESTR 5\ZST\ZST - Projekt\ZST - Projekt 1\Klient_serwer_bazadanych\Serwer\Serwer\obj\Debug\Serwer.Properties.Resources.resources
+E:\SEMESTR 5\ZST\ZST - Projekt\ZST - Projekt 1\Klient_serwer_bazadanych\Serwer\Serwer\obj\Debug\Serwer.csproj.GenerateResource.Cache
